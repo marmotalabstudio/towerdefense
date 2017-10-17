@@ -71,6 +71,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4993315402486406}
   - component: {fileID: 114237325676598298}
+  - component: {fileID: 114738234306000854}
   m_Layer: 0
   m_Name: Torre
   m_TagString: Untagged
@@ -250,3 +251,35 @@ MonoBehaviour:
     type: 2}
   tempoDeRecarga: 0.5
   raioDeAlcance: 3.5
+--- !u!114 &114738234306000854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582959781299826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 198
+    i1: 153
+    i2: 226
+    i3: 106
+    i4: 6
+    i5: 204
+    i6: 100
+    i7: 80
+    i8: 232
+    i9: 75
+    i10: 13
+    i11: 221
+    i12: 181
+    i13: 129
+    i14: 221
+    i15: 194
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1
